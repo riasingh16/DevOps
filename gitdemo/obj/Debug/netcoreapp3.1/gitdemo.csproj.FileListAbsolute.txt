@@ -1,0 +1,13 @@
+C:\Users\CTEA\Desktop\LnTAgileDevOps\gitdemo\bin\Debug\netcoreapp3.1\gitdemo.exe
+C:\Users\CTEA\Desktop\LnTAgileDevOps\gitdemo\bin\Debug\netcoreapp3.1\gitdemo.deps.json
+C:\Users\CTEA\Desktop\LnTAgileDevOps\gitdemo\bin\Debug\netcoreapp3.1\gitdemo.runtimeconfig.json
+C:\Users\CTEA\Desktop\LnTAgileDevOps\gitdemo\bin\Debug\netcoreapp3.1\gitdemo.runtimeconfig.dev.json
+C:\Users\CTEA\Desktop\LnTAgileDevOps\gitdemo\bin\Debug\netcoreapp3.1\gitdemo.dll
+C:\Users\CTEA\Desktop\LnTAgileDevOps\gitdemo\bin\Debug\netcoreapp3.1\gitdemo.pdb
+C:\Users\CTEA\Desktop\LnTAgileDevOps\gitdemo\obj\Debug\netcoreapp3.1\gitdemo.csprojAssemblyReference.cache
+C:\Users\CTEA\Desktop\LnTAgileDevOps\gitdemo\obj\Debug\netcoreapp3.1\gitdemo.AssemblyInfoInputs.cache
+C:\Users\CTEA\Desktop\LnTAgileDevOps\gitdemo\obj\Debug\netcoreapp3.1\gitdemo.AssemblyInfo.cs
+C:\Users\CTEA\Desktop\LnTAgileDevOps\gitdemo\obj\Debug\netcoreapp3.1\gitdemo.csproj.CoreCompileInputs.cache
+C:\Users\CTEA\Desktop\LnTAgileDevOps\gitdemo\obj\Debug\netcoreapp3.1\gitdemo.dll
+C:\Users\CTEA\Desktop\LnTAgileDevOps\gitdemo\obj\Debug\netcoreapp3.1\gitdemo.pdb
+C:\Users\CTEA\Desktop\LnTAgileDevOps\gitdemo\obj\Debug\netcoreapp3.1\gitdemo.genruntimeconfig.cache
